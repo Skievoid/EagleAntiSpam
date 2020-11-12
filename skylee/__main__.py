@@ -45,7 +45,6 @@ Hey there! my name is *{dispatcher.bot.first_name}*. If you have any questions o
 I'm here to make your group management fun and easy!
 i have lots of handy features, such as flood control, a warning system, a note keeping system, and even replies on predetermined filters.
 
-Any issues or need help related to me? join our group [skylee support chat](https://t.me/skyleebot).
 
 Wanna Add me to your Group? Just click the button below!
 """
@@ -53,9 +52,9 @@ Wanna Add me to your Group? Just click the button below!
 buttons = [
     [
         InlineKeyboardButton(
-            text="Add to Group 👥", url="t.me/skylee_bot?startgroup=true"
+            text="Add to Group ", url="t.me/eagleantispambot?startgroup=true"
         ),
-        InlineKeyboardButton(text="Updates 📢", url="https://t.me/skyleeupdates"),
+        InlineKeyboardButton(text="Support", url="https://t.me/eagleantispamappeal"),
     ]
 ]
 
